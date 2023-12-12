@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorge-maldonad0
-- 👀 I’m interested in data engineering
+- I’m interested in data science and economics research
 
 
 <!---
